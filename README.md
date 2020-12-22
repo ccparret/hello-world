@@ -1,2 +1,6 @@
 # hello-world
-Just another repository.
+
+
+Hows it going everyone!
+
+I'm learning how to work GitHub & makeking Google Sheet Scripts.
